@@ -19,3 +19,5 @@ fields:
   type: datetime
   config:
     required: true
+pages:
+- portfolio/journal/today-we-see-if-this-works.md
