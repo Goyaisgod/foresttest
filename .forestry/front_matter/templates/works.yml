@@ -17,6 +17,11 @@ fields:
   label: Description
   config:
     required: true
+- name: gallery_1
+  type: image_gallery
+  config: {}
+  label: Gallery 1
+  description: The first headline gallery
 - type: tag_list
   name: categories
   label: Categories
