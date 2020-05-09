@@ -9,4 +9,4 @@ date:
 
 And so here it is. We start and we try and we see what becomes. What fits, what feels smooth, not easy necessarily but something expansive, full of possibilities - intuition says there's something here. Something of value.
 
-![](/v1589016535/93627176_539845426722792_8047551188093857862_n.jpg_ykav6r.jpg)
+![Bafta covers](/v1589016535/93627176_539845426722792_8047551188093857862_n.jpg_ykav6r.jpg)
