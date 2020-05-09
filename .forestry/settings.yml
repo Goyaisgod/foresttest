@@ -5,8 +5,9 @@ admin_path: "/admin"
 webhook_url: 
 sections:
 - type: document
-  path: about/index.md
+  path: portfolio/aboutus
   label: About Us
+  read_only: false
 - type: document
   path: portfolio/index.md
   label: Homepage
