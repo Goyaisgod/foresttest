@@ -20,4 +20,5 @@ fields:
   config:
     required: true
 pages:
+- portfolio/journal/one-more-test.md
 - portfolio/journal/today-we-see-if-this-works.md
