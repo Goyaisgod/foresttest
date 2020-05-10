@@ -1,7 +1,7 @@
 ---
 title: The New New
 thumbnail: "/v1589036350/Screenshot_2020-05-06_at_17.15.00_ez5i1t.png"
-description: New work for a favourite client.
+description: New work for a favourite client.m
 categories: []
 year: 2020
 date: 
